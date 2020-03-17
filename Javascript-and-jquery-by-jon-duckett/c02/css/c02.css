@@ -125,3 +125,10 @@ body:after {
 body {
     border-left: 20px solid #fff;
     border-right: 20px solid #fff;  }
+
+.mrb-10 {
+    margin-bottom: 10px;
+}
+.mrb-20 {
+    margin-bottom: 20px;
+}
